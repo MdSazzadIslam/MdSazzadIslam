@@ -5,7 +5,7 @@ I'm Md Sazzadul Islam a Sr. Full Stack Web Developer. I love to build things usi
 📫 Reach me out!
 https://sazzad-islam-88.vercel.app/
 
-- 🔭 I’m currently working on @Pantheon
+- 🔭 I'm currently working a remote job with a US company 
 - 💻 Most used line of code git commit -m "Initial Commit"
 - 👯 I’m looking to collaborate on Node.js
 - 🤔 I’m looking for help with ...
