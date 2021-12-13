@@ -11,7 +11,7 @@ I'm Md Sazzadul Islam and working as a Sr. Full Stack Web Developer with an Amer
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Anything
 - 📫 How to reach me: netsazzad@gmail.com
-- 😄 Pronouns:  Md Sazzadul Islam
+- 😄 Pronouns:  He/Him
 - ⚡ Fun fact: I love to travel
 
 Top Technologies
