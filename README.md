@@ -5,7 +5,7 @@ I'm Md Sazzadul Islam and working as a Sr. Software Engineer. I love to build th
 📫 Reach me out!
  https://sazzad-islam-88.vercel.app/
 
-- 🔭 I'm currently working a remote job with a US company 
+- 🔭 I'm currently working as a Sr. Software Engineer 
 - 💻 Most used line of code git commit -m "Initial Commit"
 - 👯 I’m looking to collaborate on Node.js
 - 🤔 I’m looking for help with ...
