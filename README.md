@@ -16,7 +16,7 @@ I'm Md Sazzadul Islam and working as a Sr. Software Engineer. I love to build th
 
 Top Technologies
 
-Node.js, Nest JS, Typescript, Python
+Node.js, Nest JS, Typescript, Python, React
 
 <!--
 **MdSazzadIslam/MdSazzadIslam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
