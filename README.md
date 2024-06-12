@@ -1,6 +1,6 @@
 Hi Nice to meet you <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif"><img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi" style="max-width:100%;"></a>
 
-As a passionate Software Engineer, I thrive on the dynamic challenges of developing cutting-edge applications using a powerful tech stack that includes Typescript, Python, and Postgresql. My relentless pursuit of excellence extends to mastering new skills swiftly and tackling complex problems with ingenuity and precision.
+As a passionate Software Engineer, I thrive on the dynamic challenges of developing cutting-edge applications using a powerful tech stack that includes Node.js, Typescript, Python, and Postgresql. My relentless pursuit of excellence extends to mastering new skills swiftly and tackling complex problems with ingenuity and precision.
 
 Specializing in website optimization, I am dedicated to crafting efficient and high-performing solutions that deliver exceptional user experiences. Leveraging methodologies such as Model View View Model (MVVM) and Model View Controller (MVC), I organize code with clarity and scalability in mind, ensuring maintainability and extensibility across projects.
 
