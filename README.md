@@ -6,7 +6,7 @@ Specializing in website optimization, I am dedicated to crafting efficient and h
 
 What truly energizes me about software engineering is the collaborative nature of the work. I thrive in environments where I can engage with professionals from diverse disciplines, leveraging their expertise to collectively drive towards shared goals. Whether it's collaborating with designers, product managers, or fellow developers, I embrace the opportunity to forge meaningful connections and cultivate synergies that propel projects forward.
 
-My expertise spans a wide spectrum of technologies, including Node.js, Express.js, Nest.js, TypeScript, Python, C#, GraphQL, MongoDB, Postgresql, GCP, and AWS. By staying at the forefront of emerging trends and principles, I continuously enrich my coding toolkit, striving to innovate and elevate my craft.
+My expertise spans a wide spectrum of technologies, including Node.js, Express.js, Nest.js, TypeScript, Python, GraphQL, MongoDB, Postgresql, GCP, and AWS. By staying at the forefront of emerging trends and principles, I continuously enrich my coding toolkit, striving to innovate and elevate my craft.
 
 In essence, my journey as a software engineer is defined by a relentless pursuit of excellence, a passion for collaboration, and an unwavering commitment to pushing the boundaries of what's possible in technology.
 
