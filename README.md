@@ -13,7 +13,7 @@ In essence, my journey as a software engineer is defined by a relentless pursuit
 📫 Reach me out!
  [LinkedIn](https://www.linkedin.com/in/md-sazzadul-islam-90ab571a6/)
 
-- 🔭 I'm currently working as a Sr. Software Engineer 
+- 🔭 I'm currently working as a Tech Lead 
 - 💻 Most used line of code git commit -m "Initial Commit"
 - 👯 I’m looking to collaborate on Node.js and Python
 - 🤔 I’m looking for help with ...
